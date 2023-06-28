@@ -1,0 +1,1 @@
+BIBLIOTEKA_ONLINE jest projektem strony internetowej umożliwiającej użytkownikom rejestracje, logowanie oraz wypożyczanie lub dodawanie nowych książek do biblioteki. Strona posiada połączenie z bazą danych oraz cały CRUD.
